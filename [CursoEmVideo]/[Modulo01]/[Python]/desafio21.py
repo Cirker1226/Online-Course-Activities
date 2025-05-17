@@ -1,14 +1,21 @@
+import os
+os.system('cls' if os.name == 'nt' else 'clear')
+
 import pygame
 pygame.init()
 
-# Carrega o arquivo de áudio
+# Obtém o diretório onde está o script
+diretorio = os.path.dirname(os.path.abspath(__file__))
 
-pygame.mixer.music.load(r'c:\Users\mathe\Downloads\[Programação]\[CursoEmVideo]\[Python]\CuidaBem.mp3')
+# Monta o caminho completo do arquivo de áudio
+caminho_musica = os.path.join(diretorio, 'CuidaBem.mp3')
 
-# Reproduz o áudio 
-
+pygame.mixer.music.load(caminho_musica)
+pygame.mixer.music.set_volume(0.5)  # Define o volume (0.0 a 1.0)
 pygame.mixer.music.play()
 
-# Aguarda o término do evento
+print("-"*80, "\n")
+input("Pressione Enter para sair...")
+print("-"*80)
 
-pygame.event.wait()
+# Para tocar é necessario ter um arquivo .mp3 salvo no mesmo diretorio que o arquivo pertence.
