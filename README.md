@@ -22,7 +22,7 @@ Ao longo das aulas, aprendi os conceitos básicos da linguagem, como:
 
 - Variáveis e tipos de dados
 - Operadores aritméticos e lógicos
-- Tipos Primitivos e criação de listas
+- Import's e criações de listas
 - Estruturas de decisão (`if`, `else`, `elif`)
 - Entrada e saída de dados com `input()` e `print()`
 - Boas práticas e organização de código
