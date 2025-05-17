@@ -18,7 +18,6 @@ Ao longo deste módulo, aprendi os fundamentos da programação com Python, incl
 - Operadores aritméticos e lógicos
 - Comandos de entrada (`input`) e saída (`print`)
 - Estruturas condicionais (`if`, `elif`, `else`)
-- Estruturas de repetição (`while`, `for`)
 - Manipulação de strings
 - Prática com exercícios e desafios
 
@@ -27,12 +26,12 @@ Ao longo deste módulo, aprendi os fundamentos da programação com Python, incl
 As pastas e arquivos estão organizados por aula ou grupo de aulas, facilitando a navegação e revisão dos conteúdos:
 
 ```
-📁 modulo-1/
-├── aula01/
-├── aula02/
+📁 [Modulo01]/
+├── desafio00/
+├── desafio01/
 ├── ...
-├── desafios/
-└── resumo/
+├── desafio34/
+└── desafio35
 ```
 
 ## 👨‍🏫 Sobre o curso
@@ -41,7 +40,3 @@ As pastas e arquivos estão organizados por aula ou grupo de aulas, facilitando 
 - **Plataforma:** Curso em Vídeo (YouTube / site oficial)
 - **Professor:** Gustavo Guanabara
 - **Link:** [Acessar curso gratuito](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
-
----
-
-💡 *"A prática leva à perfeição. Cada linha de código escrita é um passo a mais na jornada da programação."*
