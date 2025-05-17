@@ -36,6 +36,7 @@ Ao longo das aulas, aprendi os conceitos básicos da linguagem, como:
 
 Este é um repositório pessoal, mas sugestões e feedbacks são sempre bem-vindos!
 
----
+## 📫 Contato
 
-💡 *"Aprender é um processo contínuo, e cada linha de código é um passo adiante."*
+- GitHub: [@Cirker1226](https://github.com/Cirker1226)
+- Linkedin: [@matheustecd](https://www.linkedin.com/in/matheustecd/)
