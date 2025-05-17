@@ -14,6 +14,19 @@ Organizar meu aprendizado prático de forma acessível, registrar minha evoluç�
 - 📌 Projetos feitos durante videoaulas
 - 📌 Testes e experimentações com código
 
+## 🐍 Curso em Vídeo – Módulo 1 de Python
+
+Grande parte das atividades presentes neste repositório são baseadas no **Curso em Vídeo – Python Módulo 1**, ministrado pelo professor **Gustavo Guanabara**.  
+Esse curso foi essencial para minha introdução ao mundo da programação com Python.  
+Ao longo das aulas, aprendi os conceitos básicos da linguagem, como:
+
+- Variáveis e tipos de dados
+- Operadores aritméticos e lógicos
+- Tipos Primitivos e criação de listas
+- Estruturas de decisão (`if`, `else`, `elif`)
+- Entrada e saída de dados com `input()` e `print()`
+- Boas práticas e organização de código
+  
 ## 🚀 Tecnologias mais usadas
 
 - **Python** (principal)
