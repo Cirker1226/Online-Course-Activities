@@ -1,8 +1,8 @@
 # 🧠 Repositório de Estudos e Atividades
 
-Bem-vindo(a)! Este repositório foi criado com o objetivo de armazenar todas as atividades que realizei enquanto assistia videoaulas e fazia cursos online.
+Este repositório foi criado com o objetivo de armazenar todas as atividades que realizei enquanto assistia videoaulas e fazia cursos online.
 
-Aqui você encontrará exercícios, projetos e códigos de estudo que envolvem diversas linguagens de programação — com destaque especial para **Python**, mas também podendo conter conteúdos de outras tecnologias e linguagens no futuro.
+Aqui você encontrará exercícios, projetos e códigos de estudo que envolvem diversas linguagens de programação, podendo conter conteúdos de diversas tecnologias e linguagens.
 
 ## 🎯 Objetivo
 
@@ -10,13 +10,13 @@ Organizar meu aprendizado prático de forma acessível, registrar minha evoluç�
 
 ## 📚 Conteúdo
 
-- 📌 Exercícios de cursos online
-- 📌 Projetos feitos durante videoaulas
-- 📌 Testes e experimentações com código
+- 📌 Exercícios de cursos online.
+- 📌 Projetos feitos durante videoaulas.
+- 📌 Testes e experimentações com código.
   
 ## 🚀 Tecnologias mais usadas
 
-- **Python** (principal)
+- **Python**
 - Outras linguagens em breve...
 
 ## 🤝 Contribuições
